@@ -30,7 +30,7 @@ experience:
     date_start: '2011-09-01'
     date_end: '2016-06-30'
     description: |2-
-        BIT is [an elite university](https://www.usnews.com/education/best-global-universities/china) in China. I ranked 5/180 with the GPA 90.5/100.During my undergraduate time, I earned several small yet fun awards: 
+        BIT is [an elite university](https://www.usnews.com/education/best-global-universities/china) in China. I ranked 5/180 with the GPA 90.5/100.During my undergraduate time, I winned several small yet fun prizes and awards: 
         * [《基于北斗导航系统的云物联网设计》论文](https://d.wanfangdata.com.cn/conference/8426407)获第四届“北斗杯”全国青少年科技创新大赛[BD-CASTIC](http://www.bdlead.cn/cms/page/da-sai-jian-jie)大学组二等奖
         * 《基于手势识别技术的办公智能化》作品获第十届“世纪杯”学生课外科技作品竞赛二等奖
         * 在校期间,连续6个学期获得优秀本科生一等奖学金以及获中国航天科技集团CASC奖学金、SMC企业奖学金多次
@@ -50,8 +50,8 @@ experience:
     company_url: https://www.waseda.jp/fsci/gips/en/
     company_logo: waseda-icon
     location: Japan
-    date_start: '2014-08-25'
-    date_end: '2015-06-26'
+    date_start: '2016-08-25'
+    date_end: '2018-01-26'
     description: For some subjective reasons,I suspended my persuit for a Master's Degree in Waseda University after one and a half year from enrollment.
     
   - title: Master Student 
