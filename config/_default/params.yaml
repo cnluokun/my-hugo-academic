@@ -94,7 +94,9 @@ features:
     provider: ''
     api_key: ''
     zoom: 15
-
+  icon:
+    pack:
+     ai: true
 # Extensions
 
 extensions:
@@ -107,6 +109,4 @@ extensions:
   academicons:
     enable: true
 
-icon:
-  pack:
-    ai: true
+
