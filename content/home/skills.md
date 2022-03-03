@@ -29,7 +29,22 @@ feature:
   icon: camera-retro
   icon_pack: fas
   name: Photography
-
+- description: 40%
+  icon: icon-cpp
+  icon_pack: custom
+  name: C++
+- description: 20%
+  icon: icon-latex
+  icon_pack: custom
+  name: LaTeX
+- description: 20%
+  icon: icon-opencv
+  icon_pack: custom
+  name: OpenCV
+- description: 10%
+  icon: pytorch
+  icon_pack: custom
+  name: Pytorch
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
