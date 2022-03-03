@@ -25,10 +25,10 @@ feature:
   icon: MATLAB
   icon_pack: custom 
   name: MATLAB
-- description: 30%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+#- description: 30%
+#  icon: camera-retro
+#  icon_pack: fas
+#  name: Photography
 - description: 40%
   icon: icon-cpp
   icon_pack: custom
@@ -42,7 +42,7 @@ feature:
   icon_pack: custom
   name: OpenCV
 - description: 10%
-  icon: pytorch
+  icon: icon-pytorch
   icon_pack: custom
   name: Pytorch
 # Uncomment to use emoji icons.
