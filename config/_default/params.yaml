@@ -96,7 +96,8 @@ features:
     zoom: 15
   icon:
     pack:
-     ai: true
+      ai: true
+
 # Extensions
 
 extensions:

@@ -33,8 +33,8 @@ education:
     institution: Waseda University,Japan
     year: 2016.08 - 2018.01
   - course: CSC Undergraduate Exchange Student
-    institution: Linkoping University,Sweden
-    year: 2014.08 - 2015.06
+    institution: Linköping University,Sweden
+    year: 2015
   - course: BEng in ECS
     institution: Beijing Institute of Technology
     year: 2011.09 - 2016.06
@@ -69,9 +69,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link:  uploads/demo_resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

@@ -3,11 +3,12 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
 
+
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 60
 
 title: Skills
 subtitle:
@@ -16,15 +17,15 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
+- description: 70%
+  icon: python
   icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
+  name: Python
+- description: 65%
+  icon: MATLAB
+  icon_pack: custom 
+  name: MATLAB
+- description: 30%
   icon: camera-retro
   icon_pack: fas
   name: Photography
