@@ -48,7 +48,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'instance.pdf'
+url_pdf: 'Chinese Journal of IST 2021.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -59,8 +59,8 @@ experience:
     company_url: http://english.ia.cas.cn/
     company_logo: CASIA-icon
     location: Beijing
-    date_start: '2023-06-25'
-    date_end: '2020-08-26'
+    date_start: '2020-08-25'
+    date_end: '2023-06-26'
     description: 
 design:
   columns: '2'

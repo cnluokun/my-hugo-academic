@@ -47,7 +47,7 @@ item:
   organization_url: https://www.ncac.gov.cn/chinacopyright/
   title: 计算机软件著作权登记证书 - 面向7自由度机械臂的轨迹规划和运动控制方法和仿真软件V1.0
   url:  
-- certificate_url:  
+- certificate_url: https://drive.google.com/file/d/1dTIvJVB6-P8hOYVa5Ea8FK4R3um8rFAg/view?usp=sharing 
   date_end: ""
   date_start: "2016-06-09"
   description:  
