@@ -29,8 +29,10 @@ content:
     tag: '*'
   - name: ROS
     tag:  ROS
-  - name: Machine Learning
-    tag:  Machine Learning
+  - name: Robotics Manipulator
+    tag:  Robotics 
+  - name: MATLAB/Simulink
+    tag:  MATLAB
   - name: Other
     tag: Demo
 

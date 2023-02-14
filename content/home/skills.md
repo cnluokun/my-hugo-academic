@@ -17,11 +17,11 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 70%
+- description: 50%
   icon: python
   icon_pack: fab
   name: Python
-- description: 65%
+- description: 70%
   icon: MATLAB
   icon_pack: custom 
   name: MATLAB
@@ -29,11 +29,11 @@ feature:
 #  icon: camera-retro
 #  icon_pack: fas
 #  name: Photography
-- description: 40%
+- description: 30%
   icon: icon-cpp
   icon_pack: custom
   name: C++
-- description: 20%
+- description: 50%
   icon: icon-latex
   icon_pack: custom
   name: LaTeX
