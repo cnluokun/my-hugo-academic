@@ -86,4 +86,4 @@ I am a Master student in the [State Key Laboratory for Management and Control of
 
 My research interests includes **robotics visual perception**, motion plan and controlling with a focus on redundant armed robots.My major research lies on **trajectory planning** and **motion control** of a 7-DoF manipulator, involving with force and position compositioned **compliant control** such as variable and adaptive **Impedance/Admittance control** for manipulator's contact-rich tasks.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}简历{{< /staticref >}}.
