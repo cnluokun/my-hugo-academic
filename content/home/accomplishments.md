@@ -23,6 +23,22 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- certificate_url: https://drive.google.com/file/d/1b28mocjC3Nn8ivlGZNEDAABsWpWtrIAc/view?usp=share_link
+  date_end: "2022-12-27"
+  date_start: "2022-08-22"
+  description:  
+  organization: 睿慕课·AiiMOOC - 人工智能和机器人领域的专业慕课平台
+  organization_url: https://www.aiimooc.com/
+  title: Completion of Course on Robotics Dynamics,Identification,Planning and Motion Control
+  url:
+- certificate_url: https://drive.google.com/file/d/1O554HVFCWOfeQ8C25sqaYWbr5K8JPrq5/view?usp=share_link
+  date_end: "2023-01-29"
+  date_start: "2022-12-07"
+  description: ""
+  organization: Northwestern University on Coursera 
+  organization_url: https://www.coursera.org/specializations/modernrobotics
+  title: Completion on Modern Robotics, Course 1:Foundation of Robot Motion in Northwestern University
+  url: 
 - certificate_url: https://drive.google.com/file/d/1ZfHKhqOjeQYxb4TPGH3TZ1LlxskWWEhm/view
   date_end: "2021-12-20"
   date_start: "2021-12-17"
@@ -63,6 +79,22 @@ item:
   organization_url: https://www.csc.edu.cn/
   title:  国家留学基金委CSC奖学金荣誉证书 
   url:
+- certificate_url:  https://drive.google.com/file/d/106Z-ToLqLSIUtQpscj_k9C2d58iJx8Dk/view?usp=share_link
+  date_end: "2020-10-07"
+  date_start: "2020-09-30"
+  description:  
+  organization: Mathworks
+  organization_url: https://www.mathworks.com
+  title: MATLAB OnRamp Course Completion Certificate
+  url: 
+- certificate_url:  https://drive.google.com/file/d/1bADY0NPg8cf-B-fGQrvO_OYkE-yiS3Qn/view?usp=share_link
+  date_end: "2020-11-23"
+  date_start: "2020-11-03"
+  description:  
+  organization: Mathworks
+  organization_url: https://www.mathworks.com
+  title: MATLAB/Simulink OnRamp Course Completion Certificate
+  url:  
 - certificate_url:  https://drive.google.com/file/d/1AoSsAYd47fEtON4VBUJKGphufNhUZVsK/view?usp=sharing
   date_end: ""
   date_start: "2016-09-06"
